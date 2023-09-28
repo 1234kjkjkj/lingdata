@@ -72,7 +72,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="60760"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="Илья" LINGUISTIC_TYPE_REF="utterance"
-        PARTICIPANT="Илья" TIER_ID="text@sis2004m">
+        PARTICIPANT="Илья" TIER_ID="text@iss2004m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -105,7 +105,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="Илья" LINGUISTIC_TYPE_REF="utterance"
-        PARTICIPANT="Андрей" TIER_ID="text@nad2005m">
+        PARTICIPANT="Андрей" TIER_ID="text@and2005m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
