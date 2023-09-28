@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ff<?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-09-27T22:18:19+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
@@ -76,7 +76,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="157070"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="Илья" LINGUISTIC_TYPE_REF="utterance"
-        PARTICIPANT="Андрей" TIER_ID="text@nad2005m">
+        PARTICIPANT="Андрей" TIER_ID="text@and2005m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -271,7 +271,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="Илья" LINGUISTIC_TYPE_REF="Stimulus"
-        PARENT_REF="text@nad2005m" PARTICIPANT="Андрей" TIER_ID="picnumber@nad2005m">
+        PARENT_REF="text@and2005m" PARTICIPANT="Андрей" TIER_ID="picnumber@and2005m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
