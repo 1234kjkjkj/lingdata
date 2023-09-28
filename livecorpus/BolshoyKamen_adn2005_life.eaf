@@ -105,7 +105,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="Илья" LINGUISTIC_TYPE_REF="utterance"
-        PARTICIPANT="Андрей" TIER_ID="text@and2005m">
+        PARTICIPANT="Андрей" TIER_ID="text@adn2005m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
@@ -359,7 +359,7 @@
             <CVE_VALUE DESCRIPTION="symbol" LANG_REF="und">SYM</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_86ba0d3c-888e-4ca4-8d8e-0f45336052e5">
-            <CVE_VALUE DESCRIPTION="foreign and other tokens" LANG_REF="und">X</CVE_VALUE>
+            <CVE_VALUE DESCRIPTION="foreign adn other tokens" LANG_REF="und">X</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Gesture organs">
@@ -369,17 +369,17 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
             <CVE_VALUE
-                DESCRIPTION="hand or parts of hand excluding fingers" LANG_REF="und">hand</CVE_VALUE>
+                DESCRIPTION="hadn or parts of hadn excluding fingers" LANG_REF="und">hadn</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-            <CVE_VALUE DESCRIPTION="face, nose, ear, temple and others" LANG_REF="und">head</CVE_VALUE>
+            <CVE_VALUE DESCRIPTION="face, nose, ear, temple adn others" LANG_REF="und">head</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
             <CVE_VALUE
-                DESCRIPTION="neck, shoulders, feet, belly and other parts of body" LANG_REF="und">body</CVE_VALUE>
+                DESCRIPTION="neck, shoulders, feet, belly adn other parts of body" LANG_REF="und">body</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_b039cf46-9573-44d6-a746-dc9184bbaf2f">
-            <CVE_VALUE LANG_REF="und">finger, hand</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">finger, hadn</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_5672ba52-6a34-46e9-808b-c6a924fa504b">
             <CVE_VALUE LANG_REF="und">finger, head</CVE_VALUE>
@@ -388,28 +388,28 @@
             <CVE_VALUE LANG_REF="und">finger, body</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_1156a6a8-4a6f-4f5f-8e09-ee23ae563975">
-            <CVE_VALUE LANG_REF="und">hand, head</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">hadn, head</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_19e200ba-5fe5-4871-b9bb-b67138be975e">
-            <CVE_VALUE LANG_REF="und">hand, body</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">hadn, body</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_6103d27b-af2a-4807-ae55-573e43acb9ca">
             <CVE_VALUE LANG_REF="und">head, body</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_f85c17da-777a-4863-86e3-c66d69546328">
-            <CVE_VALUE LANG_REF="und">finger, hand, head</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">finger, hadn, head</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_6da8cec9-1d67-40f9-be48-03d441bc07f6">
-            <CVE_VALUE LANG_REF="und">finger, hand, body</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">finger, hadn, body</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_491d6140-24f4-47df-bdfe-f10ce6123042">
             <CVE_VALUE LANG_REF="und">finger, head, body</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_c188ed34-246e-4bc4-91e4-ec545670dff6">
-            <CVE_VALUE LANG_REF="und">hand, head, body</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">hadn, head, body</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_d240ec98-4b97-430d-9a17-bd28ad672add">
-            <CVE_VALUE LANG_REF="und">finger, hand, head, body</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">finger, hadn, head, body</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>
